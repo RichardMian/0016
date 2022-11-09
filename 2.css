@@ -2,12 +2,12 @@
 	padding: 20px;
 	background-color: #ff9595;
 	color: #523939;
-	font-family: 'Dancing Script', cursive;
+	font-family: 'Grape Nuts';
 	font-size: 26pt;
 }
 
 .tamthu {
-	font-family: 'Dancing Script', cursive;
+	font-family: 'DGrape Nuts';
 	font-size: 18pt;
 }
 
@@ -16,7 +16,7 @@
 }
 
 body {
-	background-color: pink;
+	background-color: rgb(167, 57, 231);
 }
 span {
 	display: inline-block;
